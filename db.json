@@ -13,6 +13,13 @@
       "plastico": 38,
       "vidrio": 53,
       "total": 2843
+    },
+    {
+      "id": 3,
+      "papel": 76,
+      "plastico": 47,
+      "vidrio": 92,
+      "total": 4689
     }
   ],
   "profile": {
