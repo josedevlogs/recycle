@@ -2,7 +2,10 @@
   "centros": [
     {
       "id": 1,
-      "papel": 50
+      "papel": 50,
+      "plastico": 82,
+      "vidrio": 13,
+      "total": 3286
     }
   ],
   "profile": {
