@@ -1,0 +1,25 @@
+{
+  "centro": [
+    {
+      "id": 1,
+      "papel": "52"
+      "plastico": "20",
+      "vidrio" "35"
+    }
+     {
+      "id": 2,
+      "papel": "85"
+      "plastico": "12",
+      "vidrio" "67"
+    }
+       {
+      "id": 3,
+      "papel": "25"
+      "plastico": "41",
+      "vidrio" "34"
+    }
+ ],
+  "profile": {
+    "name": "typicode"
+  }
+}
