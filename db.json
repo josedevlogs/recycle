@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "centros": [
     {
       "id": 1,
-      "title": "hello"
+      "papel": "50"
     }
   ],
   "profile": {
