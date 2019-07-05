@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "prueba de API para el App Residuos Limpios",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "recycle",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
